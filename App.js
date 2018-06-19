@@ -13,7 +13,8 @@ export default class App extends Component<{}> {
             styleURL={Mapbox.StyleURL.Light}
             zoomLevel={15}
             centerCoordinate={[77.326017, 28.370669]}
-            style={styles.container}> 
+            style={styles.container}
+            showUserLocation={true}> 
         </Mapbox.MapView>
       </View>
     );
