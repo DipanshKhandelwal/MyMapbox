@@ -1,0 +1,3 @@
+rootProject.name = 'MyMapbox'
+
+include ':app'
