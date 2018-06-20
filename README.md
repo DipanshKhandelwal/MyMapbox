@@ -16,3 +16,10 @@ cd MyMapbox
 npm install
 npm start
 ```
+
+### Screenshots
+<p align="center">
+  <img width="30%" src="/src/images/Screenshot_1.png"/>
+  <img width="30%" src="/src/images/demo.gif"/>
+  <img width="30%" src="/src/images/Screenshot_2.png"/>
+</p>
